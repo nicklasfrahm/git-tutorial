@@ -1,3 +1,3 @@
 # git-tutorial
 
-## introduction
+## Basic commands
